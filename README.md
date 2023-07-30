@@ -17,7 +17,7 @@ On Internet Browser open bellow URL
     
     http://127.0.0.1:8080/hello-spring-web-flux/hello-web-flux-annotation?number=15
 
-    Example ReactJS App at - https://github.com/csardarMarkAny/javascript-reactive-rest-client
+    Example ReactJS App at - https://github.com/csardarMarkAny/hands-on-javascript-reactive-rest-client
 
 
 ### Personal 
